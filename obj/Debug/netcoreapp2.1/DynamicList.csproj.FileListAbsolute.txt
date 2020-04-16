@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Exercises\DynamicList\bin\Debug\netcoreapp2.1\DynamicList.deps.json
+C:\Users\User\source\repos\Exercises\DynamicList\bin\Debug\netcoreapp2.1\DynamicList.runtimeconfig.json
+C:\Users\User\source\repos\Exercises\DynamicList\bin\Debug\netcoreapp2.1\DynamicList.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exercises\DynamicList\bin\Debug\netcoreapp2.1\DynamicList.dll
+C:\Users\User\source\repos\Exercises\DynamicList\bin\Debug\netcoreapp2.1\DynamicList.pdb
+C:\Users\User\source\repos\Exercises\DynamicList\obj\Debug\netcoreapp2.1\DynamicList.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Exercises\DynamicList\obj\Debug\netcoreapp2.1\DynamicList.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exercises\DynamicList\obj\Debug\netcoreapp2.1\DynamicList.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exercises\DynamicList\obj\Debug\netcoreapp2.1\DynamicList.AssemblyInfo.cs
+C:\Users\User\source\repos\Exercises\DynamicList\obj\Debug\netcoreapp2.1\DynamicList.dll
+C:\Users\User\source\repos\Exercises\DynamicList\obj\Debug\netcoreapp2.1\DynamicList.pdb
